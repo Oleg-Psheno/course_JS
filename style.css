@@ -1,0 +1,12 @@
+.goods_box{
+    display: flex;
+    margin-top: 50px;
+    width: 500px;
+}
+.goods{
+    border: 1px solid #000;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    text-align: center;
+}
